@@ -1,3 +1,5 @@
+#https://github.com/dthomas-udem/tarjeta_credito
+#https://github.com/settings/personal-access-tokens
 import pytest
 
 from src.tc import TASA_USURA_EA, tarjeta_credito, get_tasa_usura_mv
