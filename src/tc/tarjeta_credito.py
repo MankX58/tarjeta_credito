@@ -1,4 +1,4 @@
-class tarjeta_credito:
+class Tarjeta_credito:
     def __init__(self, tasa:float):
         self.__tasa = tasa
 
@@ -7,3 +7,5 @@ class tarjeta_credito:
     
     def set_tasa(self,tasa:float):
         self.__tasa = tasa
+    
+    
